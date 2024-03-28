@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![portfolio_10](https://github.com/MohamedHosni99/Clipboard_Template-HTML-CSS/assets/99591894/25312232-985d-42ee-995c-5230eff0cb94)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
